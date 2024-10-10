@@ -1,0 +1,8 @@
+.header-community {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding: 2rem 0;
+}

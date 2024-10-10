@@ -1,0 +1,41 @@
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+@media (max-width: 400px) { 
+
+  .footer {
+    padding: 1rem 0;
+    border-top: 1px solid rgba(150,150,150, .4);
+    flex-direction: column;
+  }
+  .footer-profile {
+    padding: 1rem 0;
+    flex-direction: column;
+  }
+}
+
+.footer-zarzalejo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-zarzalejo span {
+  font-size: 0.8rem;
+}
+
+.footer-profile {
+  display: flex;
+  align-items: center;
+  font-size: 0.8rem;
+  gap: 1rem;
+}
+
+.footer-profile-image {
+  border-radius: 50%;
+  object-fit: cover;
+}

@@ -1,0 +1,9 @@
+.video_category_banner{
+  width: 100%;
+  background: linear-gradient(2deg,#393256,#05021a 65%);
+  padding: 0.5em;
+  box-sizing: border-box;
+  border-radius: 0px 5px 5px 0px;
+  color: #bbb;
+  box-shadow: 0 0 5px 1px rgba(150,150,150, .4);
+}

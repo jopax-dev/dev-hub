@@ -1,0 +1,23 @@
+{
+  "videos": [
+    {
+      "title": "Seguimos con el curso de Ansible, hoy tocan módulos",
+      "url": "https://www.twitch.tv/videos/1879610570",
+      "imageUrl": "https://vod-secure.twitch.tv/_404/404_processing_350x143.png"
+    },
+    {
+      "title": "Hoy volvemos Java con el servicio de AUTH y haremos reflexión",
+      "url": "https://www.twitch.tv/videos/1878748708",
+      "imageUrl": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/5125db6f1dfda433b922_cursosdedesarrollo_47064460028_1690038071//thumb/thumb0-350x143.jpg"
+    },
+    {
+      "title": "Curso de Ansible: Módulos disponibles",
+      "url": "https://www.twitch.tv/videos/1873470589",
+      "imageUrl": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/e44be8fc469ef6c9049f_cursosdedesarrollo_47040028396_1689519711//thumb/thumb0-350x143.jpg"
+    }
+  ],
+    "streamerData": {
+      "live": "live",
+      "viewers": 14
+    }
+}

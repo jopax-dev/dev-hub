@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Manz",
+    "image": "/imgs/manz-twitter.jpg",
+    "links": {
+      "url": "http://manz.dev",
+      "twitch": "http://twitch.tv/ManzDev",
+      "youtube": "http://youtube.com/@ManzDev"
+    },
+    "description": "Africano de corazón, profesor, muyayo, pollaboba, 'apodado' el creador de CSS, creador de 6 consolas en CSS (Está completamente loco y chalado), sus streams son maravillosos, él ayuda a la comunidad, tiene cursos gratuitos de todo el panorama Front End y odia React & Tailwind. Dice que React la chupa"
+  },
+  {
+    "name": "Arturo Zarzalejo",
+    "image": "/imgs/arturo-cerdo.png",
+    "links": {},
+    "description": "Creador de Community Developers Web, Javascript Tech, gordito, quejica, llorón y friki, también gamer. Friki que no sabe programar, tiene más cuentas que el xokas. La viva imagen de 'la de trabajar te la sabes??' Vendehumos a tiempo completo que copia codigo con una mano mientras con la otra se arregla el pelazo, propone chumbimba sin éxito y diariamente está cuajado. Para más, ver en directo"
+  },
+  {
+    "name": "Medidev",
+    "image": "/imgs/midu-feliz-twitter.jpg",
+    "links": {
+      "twitch": "http://twitch.tv/midudev",
+      "discord": "http://discord.gg/midudev"
+    },
+    "description": "Ingeniero de Software & JavaScript. GitHub Star · Google Dev Expert · Microsoft MVP. Streamer número 1 hispanohablante sobre desarrollo de software, dice que los programadores que no tienen proyectos en Github no valen para nada y que la universidad es completamente inútil y la chupan todos los que han ido. Él ha ido y os da mil vueltas a todos, bobos"
+  },
+  {
+    "name": "TodoCode",
+    "image": "/imgs/todo-code-joven.png",
+    "links": {
+      "youtube": "http://bit.ly/36laFi8",
+      "instagram": "http://bit.ly/3mpuRVF",
+      "twitch": "http://bit.ly/3I8st3d"
+    },
+    "description": "Donde aprender informática de forma sencilla, sin palabras complicadas. Argentina, profesora, fullstack, le encanta Java y lo demás es una mierda, sabe de microservicios y toma todo el día tereré, yo creo que está un poquito tururú, Compra en cuevas argentinas, cuando va por la calle dice 'cambio cambio cambio cambio' y le encantan los climas tropicales"
+  },
+  {
+    "name": "Afor_digital",
+    "image": "/imgs/afor-platano.png",
+    "links": {
+      "twitch": "http://twitch.tv/afor_digital"
+    },
+    "description": "A veces hago como que programo en http://twitch.tv/afor_digital. Valenciana tetica, amante de la cerveza y de React & Tailwind, reza a Manz por las tardes, podrás encontrarla en cualquier lugar con cerveza y sol, habla a velocidades nunca vistas, los espectadores no saben si está hablando o rapeando, hace concursillos como illojuan y de vez en cuando te insulta si le enseñas tu página web o tu linkedin de forma 'constructiva' pero ella disfruta"
+  },
+  {
+    "name": "Brais Moure",
+    "image": "/imgs/moure-feliz-twitter.png",
+    "links": {
+      "website": "http://moure.dev"
+    },
+    "description": "Freelance full-stack Dev, iOS & Android Engineer, Te enseño programación. YouTube, Twitch, Discord & Elgato Partner. Microsoft MVP & GDG. Galleguiño oh Neno, de vez en cuando suelta algún carallo en stream o apúrate neno, se ve que prefiere los festivales a la programación, escribió un libro de Git y Github, decidió cambiar a moure v2 porque moure v1 la chupaba, actualmente como freelance y creador de contenido TOP"
+  },
+  {
+    "name": "Matias Baldanza",
+    "image": "/imgs/matias-feliz-twitter.jpg",
+    "links": {
+      "twitch": "http://twitch.tv/matiasbaldanza"
+    },
+    "description": "Ridiculously enthusiastic nerd. Front-end dev (React) - Former IT person / teacher / translator. Re-learning to code Mo-Fri @ http://twitch.tv/matiasbaldanza. Profesor de inglés, argentino, IT Boy, +80 años de experiencia y de vida, quiere aprender programación antes de diñarla por si en el infierno toca programar tener un buen salario aprende en directo y la verdad tiene las mejores explicaciones de todos los creadores de contenido, algunos dicen que parece una IA"
+  }
+]

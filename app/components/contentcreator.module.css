@@ -1,0 +1,33 @@
+.button {
+  width: 50px;
+  height: 50px;
+  background-color: #331f60;
+  border: 1px solid rgba(150, 150, 150, .4);
+  border-radius: 50%;
+  position: fixed;
+  bottom: 2rem;
+  right: 1rem;
+  z-index: 3;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.modal-wrapper {
+  background-color: rgba(0, 0, 0, .6);
+  z-index: 2;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+
+}
+.modal {
+  position: relative;
+  transform: translate(50%, 50%);
+  max-width: 50%;
+  height: 50%;
+  z-index: 2;
+  background-color: #888;
+  border-radius: 10px;
+}
